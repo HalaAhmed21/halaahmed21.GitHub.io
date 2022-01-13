@@ -4,6 +4,14 @@
 - lang: en
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
+  
+  - lang: ar
+  img: https://cdn.countryflags.com/thumbs/syria/flag-400.png
+  text: Syria
+  
+  - lang: de
+  img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+  text: Germany
 
 - lang: fr
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
@@ -20,10 +28,6 @@
 - lang: ko
   img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
   text: Korean
-
-- lang: ru
-  img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-  text: Russian
 
 - lang: de
   img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
