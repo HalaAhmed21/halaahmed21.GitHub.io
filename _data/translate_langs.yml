@@ -5,11 +5,11 @@
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
   
-  - lang: ar
+- lang: ar
   img: https://cdn.countryflags.com/thumbs/syria/flag-400.png
   text: Syria
   
-  - lang: de
+- lang: de
   img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
   text: Germany
 
