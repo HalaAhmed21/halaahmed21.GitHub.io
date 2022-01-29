@@ -1,5 +1,13 @@
-This area should be used to summarize some codes, that will help you while using github. (source:Datacamp)
-
+---
+layout: post
+title: GitHub codes
+subtitle: Summarize most of github commands
+categories: GitHub
+tags: [guide, commands, github]
+---
+#Source
+https://app.datacamp.com/learn/courses/introduction-to-git
+-------
 git status : Check changes in the file
 git diff : Shows the changes occurs in the repository
 git diff directory : Shows the changes occurs in the directory
